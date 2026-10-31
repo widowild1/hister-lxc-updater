@@ -1,0 +1,5 @@
+{
+  "ntfy_url": "https://ntfy.sh/ton_topic_ici",
+  "ntfy_token": "",
+  "healthcheck_url": "https://127.0.0.1:4433/"
+}
